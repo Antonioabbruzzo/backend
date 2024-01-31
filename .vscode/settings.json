@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "task",
+      "database": "${workspaceFolder:esercitazione}/db.sqlite"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
